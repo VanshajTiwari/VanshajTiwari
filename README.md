@@ -15,7 +15,7 @@ Hey!✌️ My name is Vanshaj Tiwari. Seeing World with full of new Opportunitie
 <a href="https://www.github.com/VanshajTiwari" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/VanshajTiwari?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Skills
+#### Skills
 
 
 <p align="left">
