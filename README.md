@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer  
 ------------------  
 
-Hey!✌️ My name is Vanshaj Tiwari. Seeing World with full of new Opportunities. DSA || Web development    
+Hey!✌️ My name is Vanshaj Tiwari. Seeing World with full of new Opportunities. DSA || Web development     
  
 * 🌍  I'm based in India
 * ✉️  You can contact me at [vanshajtiwari62@gmail.com](mailto:vanshajtiwari62@gmail.com)
