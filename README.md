@@ -19,7 +19,7 @@ src="https://img.shields.io/github/followers/VanshajTiwari?logo=github&style=for
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,git,react,codepen,html,css,js,kali,java,linux,mysql,nextjs,npm,postman,py,redis,redux,vite,yarn,express,docker,c,vi" />
+    <img src="https://skillicons.dev/icons?i=aws,git,react,html,css,js,nodejs,express,mongodb,eclipse,bootstrap,kali,java,linux,mysql,nextjs,npm,postman,ts,py,redis,redux,vite,yarn,docker,c,vi,vscode,codepen,vercel,sklearn,supabase,stackoverflow,pycharm,pug,babel,bash,postgres" />
   </a>
 </p>
 
