@@ -9,7 +9,7 @@ Hey!✌️ My name is Vanshaj Tiwari. Seeing World with full of new Opportunitie
 * 🌍  I'm based in India
 * ✉️  You can contact me at [vanshajtiwari62@gmail.com](mailto:vanshajtiwari62@gmail.com)
 * 🧠  I'm learning Machine Learning
-* 🤝  I'm open to collaborating on Web development,Game development,Software development
+* 🤝  I'm open to collaborating on Web development, Blockchain Development, Software development
 * ⚡  You can also contact me on Instagram & twitter
 
 <a href="https://www.github.com/VanshajTiwari" target="_blank" rel="noreferrer"><img
