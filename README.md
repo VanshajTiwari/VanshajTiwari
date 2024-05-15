@@ -10,7 +10,7 @@ Hey!✌️ My name is Vanshaj Tiwari. Seeing World with full of new Opportunitie
 * ✉️  You can contact me at [vanshajtiwari62@gmail.com](mailto:vanshajtiwari62@gmail.com)
 * 🧠  I'm learning Machine Learning
 * 🤝  I'm open to collaborating on Web development, Blockchain Development, Software development
-* ⚡  You can also contact me on Instagram & twitter
+* ⚡  You can also contact me on Instagram & twitter 
 
 <a href="https://www.github.com/VanshajTiwari" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/VanshajTiwari?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> 
