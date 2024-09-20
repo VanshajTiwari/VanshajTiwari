@@ -24,7 +24,7 @@ src="https://img.shields.io/github/followers/VanshajTiwari?logo=github&style=for
     <img src="https://skillicons.dev/icons?i=aws,git,react,html,css,js,nodejs,express,mongodb,eclipse,bootstrap,kali,java,linux,mysql,nextjs,npm,postman,ts,py,redis,redux,vite,yarn,docker,c,vscode,codepen,vercel,sklearn,supabase,stackoverflow,pycharm,pug,babel,bash,postgres,ipfs" />
   </a>
 </p>
-
+ 
 ### Socials
 
 <p align="left"> <a href="https://www.codepen.io/Vanshajt01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/VanshajTiwari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/vanshajt01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vanshaj-tiwari-71b0a11ba" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
