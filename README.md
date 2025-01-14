@@ -21,10 +21,9 @@ Hey!✌️ My name is Vanshaj Tiwari. I see the world as full of new opportuniti
 ![Skills](https://skillicons.dev/icons?i=aws,git,react,html,css,js,nodejs,express,mongodb,eclipse,bootstrap,kali,java,linux,mysql,nextjs,npm,postman,ts,py,redis,redux,vite,yarn,docker,c,vscode,codepen,vercel,sklearn,supabase,stackoverflow,pycharm,pug,babel,bash,postgres,ipfs)
 
 ### Socials
- 
-- [GitHub](https://www.github.com/VanshajTiwari)  
+  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com/vanshajt01)  
-[![LinkedIn]()](https://www.linkedin.com/in/vanshaj-tiwari-71b0a11ba)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshaj-tiwari-71b0a11ba)
 
 ### Badges
 
