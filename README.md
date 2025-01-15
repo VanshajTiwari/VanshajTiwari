@@ -6,7 +6,7 @@ Hey!✌️ My name is Vanshaj Tiwari. I see the world as full of new opportuniti
   
 * 🌍  I'm based in Mathura, Uttar Pradesh, India  
 * 👨🏻‍💻  Portfolio: [Click here](https://igiportofolio.netlify.app/)  
-* ✉️  You can contact me at [vanshajtiwari62@gmail.com](mailto:vanshajtiwari62@gmail.com)  
+* ✉️  You can contact me at [vanshajtiwari62@gmail.com](mailto:vanshajtiwari62@gmail.com) or [vanshajt01cse@gmail.com](mailto:vanshajt01cse@gmail.com)  vanshajt01cse@gmail.com
 * 🧠  Currently exploring Machine Learning  
 * 🤝  Open to collaborations in Web Development, Blockchain, and Software Development  
 * ⚡  Connect with me on [Linkedin](hhttps://www.linkedin.com/in/vanshaj-tiwari-71b0a11ba )
